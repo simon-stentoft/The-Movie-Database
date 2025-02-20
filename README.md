@@ -13,4 +13,3 @@ Responsiveness must be enforced.
 Examples: 
 ![image](https://github.com/user-attachments/assets/36db4489-f7a7-466e-8a83-1e700aa7f2de)
 ![image](https://github.com/user-attachments/assets/337b3a1b-6f08-4d89-bd90-e999c5856eb1)
-![image](https://github.com/user-attachments/assets/056c4423-1905-4d23-a1b8-2e90fb905a15)
