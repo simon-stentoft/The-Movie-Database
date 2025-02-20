@@ -4,11 +4,11 @@ Description:
 Create a front-end application that shows information about movies by connecting to The Movie Database API.
 
 The application will show information about the following types of movies:
-Now playing
-Popular
-Top rated
-Upcoming
-Responsiveness must be enforced.
+* Now playing
+* Popular
+* Top rated
+* Upcoming
+* Responsiveness must be enforced.
 
 Examples: 
 ![image](https://github.com/user-attachments/assets/36db4489-f7a7-466e-8a83-1e700aa7f2de)
