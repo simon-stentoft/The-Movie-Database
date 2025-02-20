@@ -1,7 +1,7 @@
 1st semester Web dev bachelor mandatory assignment. 
 
 Description: 
-Create a front-end application that shows information about movies by connecting to The Movie Database API.
+Create a front-end application that shows information about movies by connecting to The Movie Database API. https://developer.themoviedb.org/docs/getting-started
 
 The application will show information about the following types of movies:
 * Now playing
